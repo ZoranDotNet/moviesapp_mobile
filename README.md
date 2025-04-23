@@ -1,6 +1,8 @@
-# Movies app made with React Native 
+
+# Movies app made with React Native
 
 using Appwrite & TMDB-Api
+
 
 
 
@@ -22,12 +24,10 @@ using Appwrite & TMDB-Api
 
 ## Images
 
-
-
 <p float="left">
-   <img src="https://github.com/user-attachments/assets/20f9b3ad-6514-4909-ad55-0d132db37e77" width="30%" />
-  <img src="https://github.com/user-attachments/assets/436b2ce0-2f7c-4674-80e4-e3c06bb91b94" width="30%" />
-  <img src="https://github.com/user-attachments/assets/c33fa1ce-beff-4243-bcfa-daef70ed3ed7" width="30%" />
+   <img src="https://github.com/user-attachments/assets/ada60ef5-5ee0-4d0f-b0ff-5b8f14487a6a" width="30%" align="top"/>
+  <img src="https://github.com/user-attachments/assets/ad28bd94-8896-4d6f-819e-efdc205e5b72" width="30%" align="top"/>
+
 </p>
 
 
